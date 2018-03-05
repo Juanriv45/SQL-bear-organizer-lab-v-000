@@ -21,3 +21,39 @@
 [33m44fb7c4[m fixed merge conflict [31m(Danny-Sullivan, 2 years, 4 months ago)[m
 [33mbf59b77[m decoded seed file [31m(Danny-Sullivan, 2 years, 4 months ago)[m
 [33m7475259[m clarified a note on testing section [31m(Danny-Sullivan, 2 years, 4 months ago)[m
+[33m5b67962[m Updated objectives [31m(AnnJohn, 2 years, 5 months ago)[m
+[33m5211d9d[m Merge pull request #12 from learn-co-curriculum/wip-improvements [31m(Ian Candy, 2 years, 5 months ago)[m
+[33mf1fa0c7[m fixes typo in sql_queries [31m(deniznida, 2 years, 5 months ago)[m
+[33madd0a14[m changes encoded_datas booleans to 1 and 0 [31m(deniznida, 2 years, 5 months ago)[m
+[33m14f4184[m Add contributing instructions [31m(Spencer Rogers, 2 years, 6 months ago)[m
+[33m8115372[m Merge pull request #8 from learn-co-curriculum/multi-line-sql-fix-master [31m(Joshua Owens, 2 years, 7 months ago)[m
+[33m5946e21[m Use execute_batch [31m(Steven Nunez, 2 years, 7 months ago)[m
+[33m7d2e769[m new solution [31m(deniznida, 2 years, 9 months ago)[m
+[33mf67b1a9[m Merge pull request #2 from learn-co-curriculum/improvements [31m(Benjamin Gross, 2 years, 9 months ago)[m
+[33m7c1a711[m Add content license [31m(The Learn Team, 2 years, 9 months ago)[m
+[33m58f9444[m edits solution for updated master [31m(deniznida, 2 years, 9 months ago)[m
+[33m6743513[m modify spec to not require students answering in test suite [31m(deniznida, 2 years, 9 months ago)[m
+[33m54fa4f7[m dot learn added by fs-lms-bot [31m(Beyonce Jabroni, 3 years ago)[m
+[33mc9d0555[m add back Gemfile.lock [31m(Rose Weixel, 3 years ago)[m
+[33md801711[m Add a test for inserting a bear where name is null [31m(Rose Weixel, 3 years ago)[m
+[33m928f513[m updated readme for bear count [31m(Ian Miller, 3 years ago)[m
+[33m3587ccb[m removed answers [31m(Ian Miller, 3 years ago)[m
+[33md3264ea[m updated insert spec [31m(Ian Miller, 3 years, 1 month ago)[m
+[33m17f235a[m updated create spec [31m(Ian Miller, 3 years, 1 month ago)[m
+[33m36128de[m updated sql runner encoding [31m(Ian Miller, 3 years, 1 month ago)[m
+[33m8ccdd07[m updated readme slightly [31m(Ian Miller, 3 years, 1 month ago)[m
+[33m4b20e7d[m README.md [31m(ahimmelstoss, 3 years, 5 months ago)[m
+[33mfdd74e0[m README.md [31m(ahimmelstoss, 3 years, 5 months ago)[m
+[33m56594cf[m boolean integers [31m(ahimmelstoss, 3 years, 5 months ago)[m
+[33m3f1876e[m README.md [31m(ahimmelstoss, 3 years, 5 months ago)[m
+[33m0563ae1[m README.md [31m(ahimmelstoss, 3 years, 5 months ago)[m
+[33m8727455[m Update README.md [31m(Amanda Himmelstoss, 3 years, 5 months ago)[m
+[33m72b1f9a[m resize image [31m(Katie Hoffman, 3 years, 5 months ago)[m
+[33m25e12f6[m Update select_spec.rb [31m(Amanda Himmelstoss, 3 years, 6 months ago)[m
+[33m9a3ad5e[m Update README.md [31m(Amanda Himmelstoss, 3 years, 6 months ago)[m
+[33mb04dc2e[m finished [31m(ahimmelstoss, 3 years, 6 months ago)[m
+[33md5f1690[m edit runner and select spec [31m(ahimmelstoss, 3 years, 6 months ago)[m
+[33m54a49aa[m insert spec [31m(ahimmelstoss, 3 years, 6 months ago)[m
+[33mece7aff[m create spec [31m(ahimmelstoss, 3 years, 6 months ago)[m
+[33m5a4ab40[m README.md [31m(ahimmelstoss, 3 years, 6 months ago)[m
+[33mfc14495[m set up [31m(ahimmelstoss, 3 years, 6 months ago)[m
